@@ -1,3 +1,4 @@
+//find length of string
 def length(string):
     if string == "":
        return 0
